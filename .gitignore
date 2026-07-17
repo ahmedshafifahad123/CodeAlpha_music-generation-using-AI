@@ -1,0 +1,15 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Model artifacts and local MIDI data (can be large or copyrighted)
+artifacts/
+data/
+
+# Generated MIDI files
+*.mid
+*.midi
+
+# Editor files
+.vscode/
