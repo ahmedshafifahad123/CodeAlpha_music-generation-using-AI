@@ -143,7 +143,7 @@ The generated MIDI file is saved in the project folder. Open it in MuseScore Stu
 
 ## Screenshots
 
-![Generated MIDI in MuseScore](assets/screenshots/musescore-output.jpg)
+![Generated MIDI in MuseScore](assets/screenshots/musescore-output.png)
 
 
 
