@@ -1,0 +1,12 @@
+# Image files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+
+# Audio files
+*.mid binary
+*.midi binary
+*.wav binary
+*.mp3 binary
