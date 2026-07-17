@@ -206,5 +206,5 @@ This project is for learning and educational use. Ensure you have permission to 
 ## Github
 bash
 ```
-https://github.com/ahmedshafifahad123/CodeAlpha_Music-generation-with-AI.git
+https://github.com/ahmedshafifahad123/CodeAlpha_music-generation-using-AI.git
 ```
